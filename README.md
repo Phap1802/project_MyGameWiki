@@ -1,19 +1,32 @@
-# Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
 
-## Objetivo
+
+
+
+
+# Projeto My Game Wiki
+Este projeto foi desenvolvido para atender os requisitos dos desafio da Formação HTML da DIO. o proposito é recriar o wiki com melhor layout porem levando em consideração a semantica e acessibilidade do HTML. 
+
+## Observações:
+Não Levei em considerações questões de CSS, apenas foquei no aprendizado da formação HTML, por conta disso o site esta com designer mais simples e nao responsivo. 
+
+Abrir o githubpage em um desktop pois como dito acima não está responsivo. 
+
+
+
+
+
+
+
+
+
+## Desafio Inposto: 
+
+
+**Título:** Recriando Wikipedia.
+
+#### Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
 
 
